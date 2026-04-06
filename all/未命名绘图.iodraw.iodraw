@@ -41,8 +41,8 @@
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-28" value="账期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-29" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="340" width="100" height="50" as="geometry" />
+        <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-29" value="数据清洗" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
