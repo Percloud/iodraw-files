@@ -66,6 +66,9 @@
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应收数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应收数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
