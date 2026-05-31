@@ -81,7 +81,7 @@
           <mxGeometry x="650" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对账结果明细&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="750" y="850" width="100" height="50" as="geometry" />
+          <mxGeometry x="740" y="850" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对账单据明细&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="880" y="850" width="100" height="50" as="geometry" />
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="_VmroAuCpnsFygFqSdcH-10" value="租户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_VmroAuCpnsFygFqSdcH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="610" width="480" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
