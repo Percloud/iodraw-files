@@ -74,7 +74,7 @@
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;生成调整单&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="720" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对账结果&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对账结果明细&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="205" y="940" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;汇总报表&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
@@ -95,8 +95,8 @@
         <mxCell id="_VmroAuCpnsFygFqSdcH-5" value="实收口径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_VmroAuCpnsFygFqSdcH-10" value="账期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="600" width="60" height="30" as="geometry" />
+        <mxCell id="_VmroAuCpnsFygFqSdcH-10" value="租户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
