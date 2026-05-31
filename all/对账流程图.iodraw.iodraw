@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_VmroAuCpnsFygFqSdcH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="830" width="300" height="80" as="geometry" />
+          <mxGeometry x="710" y="830" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="_VmroAuCpnsFygFqSdcH-10" value="租户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_VmroAuCpnsFygFqSdcH-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对账单据明细&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="840" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
