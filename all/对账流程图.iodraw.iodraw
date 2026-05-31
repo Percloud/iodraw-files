@@ -45,6 +45,11 @@
         <mxCell id="_VmroAuCpnsFygFqSdcH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-17" target="_VmroAuCpnsFygFqSdcH-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_VmroAuCpnsFygFqSdcH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;应收数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="135" y="620" width="100" height="50" as="geometry" />
         </mxCell>
