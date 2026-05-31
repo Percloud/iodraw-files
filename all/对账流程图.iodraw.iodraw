@@ -95,6 +95,9 @@
         <mxCell id="_VmroAuCpnsFygFqSdcH-5" value="实收口径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="540" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_VmroAuCpnsFygFqSdcH-10" value="账期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
