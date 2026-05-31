@@ -10,11 +10,6 @@
         <mxCell id="_VmroAuCpnsFygFqSdcH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="800" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="335" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_VmroAuCpnsFygFqSdcH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-24" target="ZzoEyKRr7ZfUP6DO-DRV-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -49,6 +44,9 @@
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-20" value="应收口径" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_VmroAuCpnsFygFqSdcH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-23" target="_VmroAuCpnsFygFqSdcH-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;实收数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="285" y="620" width="100" height="50" as="geometry" />
