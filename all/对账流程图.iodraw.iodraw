@@ -104,8 +104,8 @@
         <mxCell id="_VmroAuCpnsFygFqSdcH-10" value="租户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_VmroAuCpnsFygFqSdcH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="105" y="610" width="480" height="90" as="geometry" />
+        <mxCell id="_VmroAuCpnsFygFqSdcH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="820" width="480" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
