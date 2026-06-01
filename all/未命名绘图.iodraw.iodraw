@@ -49,8 +49,11 @@
         <mxCell id="yW-pnRpi7-5ckvjHAMGT-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;10:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="235" y="283" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yW-pnRpi7-5ckvjHAMGT-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;8:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="283" width="60" height="40" as="geometry" />
+        <mxCell id="yW-pnRpi7-5ckvjHAMGT-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;12:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="283" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yW-pnRpi7-5ckvjHAMGT-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;8:00&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="313" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
