@@ -59,11 +59,12 @@
         <mxCell id="_VmroAuCpnsFygFqSdcH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-23" target="_VmroAuCpnsFygFqSdcH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WuqrQ4Mmav4Tkuot_FoN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-23" target="ZzoEyKRr7ZfUP6DO-DRV-25">
+        <mxCell id="WuqrQ4Mmav4Tkuot_FoN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-23" target="ZzoEyKRr7ZfUP6DO-DRV-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="740" />
               <mxPoint x="595" y="740" />
+              <mxPoint x="595" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -87,8 +88,7 @@
             <mxPoint x="590" y="790" as="targetPoint" />
             <Array as="points">
               <mxPoint x="970" y="720" />
-              <mxPoint x="595" y="720" />
-              <mxPoint x="595" y="680" />
+              <mxPoint x="620" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
