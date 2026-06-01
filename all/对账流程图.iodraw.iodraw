@@ -54,7 +54,7 @@
           <mxGeometry x="245" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-20" value="应收口径" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="235" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_VmroAuCpnsFygFqSdcH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-23" target="_VmroAuCpnsFygFqSdcH-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +132,7 @@
           <mxGeometry x="135" y="730" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WuqrQ4Mmav4Tkuot_FoN-1" value="应收口径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="295" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
