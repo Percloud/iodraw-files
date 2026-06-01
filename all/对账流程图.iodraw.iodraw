@@ -142,8 +142,8 @@
         <mxCell id="WuqrQ4Mmav4Tkuot_FoN-1" value="租户配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WuqrQ4Mmav4Tkuot_FoN-3" value="抖音优惠券退款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="780" width="110" height="30" as="geometry" />
+        <mxCell id="WuqrQ4Mmav4Tkuot_FoN-3" value="费用项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
