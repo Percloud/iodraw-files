@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据清洗&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="630" width="100" height="50" as="geometry" />
+          <mxGeometry x="740" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_VmroAuCpnsFygFqSdcH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-30" target="ZzoEyKRr7ZfUP6DO-DRV-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;执行对账&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="920" y="630" width="100" height="50" as="geometry" />
+          <mxGeometry x="900" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;生成调整单&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="720" width="80" height="30" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="980" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-41" value="对账方案" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="650" width="60" height="30" as="geometry" />
+          <mxGeometry x="1010" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZzoEyKRr7ZfUP6DO-DRV-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;对账数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="545" y="570" width="80" height="30" as="geometry" />
@@ -150,6 +150,9 @@
         </mxCell>
         <mxCell id="WuqrQ4Mmav4Tkuot_FoN-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;正/负应收报表&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="105" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t-zofCs8qyoufo71Vx69-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZzoEyKRr7ZfUP6DO-DRV-41" target="ZzoEyKRr7ZfUP6DO-DRV-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
